@@ -1,0 +1,2 @@
+# Modeling-Social-Media-Engagement-Based-on-User-Attributes
+This project combines exploratory data analysis and regression modeling to understand behavioral and demographic patterns in social media usage. In addition to uncovering trends through visualization and grouping, it applies linear regression to predict user engagement (time spent) based on variables such as age, income, and interest categories.
